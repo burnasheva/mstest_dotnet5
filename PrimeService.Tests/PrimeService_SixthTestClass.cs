@@ -5,7 +5,7 @@ using Assert = Xunit.Assert;
 
 namespace Prime.UnitTests.Services
 {
-
+    [TestClass]
     public class PrimeService_SixthTestClass
     {
         [Fact]
